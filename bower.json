@@ -1,0 +1,22 @@
+{
+  "name": "COSTING",
+  "homepage": "https://github.com/kanakdeepa/COSTING",
+  "authors": [
+    "Kanakdeepa <kanakdeepa.pradhan91@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.5",
+    "bootstrap": "^3.3.7"
+  }
+}

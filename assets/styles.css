@@ -1,0 +1,41 @@
+.navbar-default{
+    color:#e7e7e7;
+    background-color:#1F5576 !important;
+    border-color: #e7e7e7 !important;
+}
+
+.navbar {
+    border-radius: 0px !important;
+    min-height: 50px !important;
+}
+
+.navbar-default .navbar-brand {
+    color:#e7e7e7;
+    background-color:#1F5576 !important;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color:#e7e7e7;
+    background-color:#1F5576 !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color:#C3C3C3;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color:#C3C3C3;
+}
+
+.navbar-header .navbar-brand  .caret {
+    margin-left: 20px;
+}
+
+.btn-header {
+    border-radius: 0px;
+    margin: 8px 20px 0px 0px;
+    color:#C3C3C3;
+    background-color:#4F4F4F;
+    float: right;
+
+}
